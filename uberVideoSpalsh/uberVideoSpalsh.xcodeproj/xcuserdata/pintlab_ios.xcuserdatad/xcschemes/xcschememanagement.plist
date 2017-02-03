@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>uberVideoSpalsh.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3A4BE39A1E4446F200AB6F20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A4BE3B61E4446F400AB6F20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A4BE3C11E4446F500AB6F20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
